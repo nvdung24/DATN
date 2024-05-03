@@ -1,0 +1,67 @@
+﻿@model IEnumerable<SaleDto>
+@{
+    ViewBag.Title = "Sale";
+    Layout = "_AdminLayout";
+}
+
+<div class="content-header">
+    <div class="container-fluid">
+        <h1>Giảm giá</h1>
+        <div class="row mb-2 container-fluid">
+            <a asp-action="Create" class="btn btn-success"><i class="fas fa-plus"></i></a>
+        </div>
+        
+        <div class="row mb-2">
+            <div class="container-fluid">
+                <table class="table table-bordered table-hover" id="sale">
+                    <thead>
+                    <tr>
+                        <th>STT</th>
+                        <th>Tên sản phẩm</th>
+                        <th>Hình ảnh</th>                                              
+                        <th>Ngày bắt đầu</th>
+                        <th>Ngày kết thúc</th>
+                        <th>Giá cũ</th>
+                        <th>Giá mới</th>
+                        <th>Mô tả sale</th>
+                        <th>Loại</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    @foreach (var item in Model)
+                    {
+                        
+                            <tr>
+                                <td>@item.Id</td>
+                                <td>@item.Product.Name </td>                                                    
+                                <td><img src="~/img/@item.Product.Avatar" width="100" height="100"/></td>
+                                <td>@item.CreateDate</td>
+                                <td>@item.EndDate</td>
+                                <td>@item.PriceOld</td>
+                                <td>@item.PriceNow</td>
+                                <td>@Html.Raw(item.Desc)</td>
+                                @if (item.EndDate >= DateTime.Now) {
+                                <td><a href="#" class="btn success"><i class="fas fa-check"></i></a></td>
+                                } else {
+                                <td><a href="#" class="btn danger"><i class="fas fa-times"></i></a></td>
+                                }
+                            </tr>
+                        
+                        
+                    }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts
+{
+    <script>
+        $(document).ready( function () {
+            $('#sale').DataTable();
+
+        } );
+    </script>
+}
