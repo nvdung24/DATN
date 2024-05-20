@@ -1,0 +1,464 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\fpt\\Downloads\\SHoesStoreTuli-Develop\\SHoesStoreTuli-Develop\\CoV.Web\\CoV.Web\\CoV.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\fpt\\Downloads\\SHoesStoreTuli-Develop\\SHoesStoreTuli-Develop\\CoV.Web\\CoV.Common\\CoV.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fpt\\Downloads\\SHoesStoreTuli-Develop\\SHoesStoreTuli-Develop\\CoV.Web\\CoV.Common\\CoV.Common.csproj",
+        "projectName": "CoV.Common",
+        "projectPath": "C:\\Users\\fpt\\Downloads\\SHoesStoreTuli-Develop\\SHoesStoreTuli-Develop\\CoV.Web\\CoV.Common\\CoV.Common.csproj",
+        "packagesPath": "C:\\Users\\fpt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fpt\\Downloads\\SHoesStoreTuli-Develop\\SHoesStoreTuli-Develop\\CoV.Web\\CoV.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fpt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\fpt\\Downloads\\EFCore_Packages\\EFCore_Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[8.6.1, )"
+            },
+            "Kore.Providers.Messages.Resource": {
+              "target": "Package",
+              "version": "[1.1.2, )"
+            },
+            "Microsoft.AspNetCore.Cryptography.KeyDerivation": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Localization": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.TagHelpers": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Localization.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\fpt\\Downloads\\SHoesStoreTuli-Develop\\SHoesStoreTuli-Develop\\CoV.Web\\CoV.DataAccess\\CoV.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fpt\\Downloads\\SHoesStoreTuli-Develop\\SHoesStoreTuli-Develop\\CoV.Web\\CoV.DataAccess\\CoV.DataAccess.csproj",
+        "projectName": "CoV.DataAccess",
+        "projectPath": "C:\\Users\\fpt\\Downloads\\SHoesStoreTuli-Develop\\SHoesStoreTuli-Develop\\CoV.Web\\CoV.DataAccess\\CoV.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\fpt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fpt\\Downloads\\SHoesStoreTuli-Develop\\SHoesStoreTuli-Develop\\CoV.Web\\CoV.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fpt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\fpt\\Downloads\\EFCore_Packages\\EFCore_Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {
+              "C:\\Users\\fpt\\Downloads\\SHoesStoreTuli-Develop\\SHoesStoreTuli-Develop\\CoV.Web\\CoV.Common\\CoV.Common.csproj": {
+                "projectPath": "C:\\Users\\fpt\\Downloads\\SHoesStoreTuli-Develop\\SHoesStoreTuli-Develop\\CoV.Web\\CoV.Common\\CoV.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\fpt\\Downloads\\SHoesStoreTuli-Develop\\SHoesStoreTuli-Develop\\CoV.Web\\CoV.Service\\CoV.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fpt\\Downloads\\SHoesStoreTuli-Develop\\SHoesStoreTuli-Develop\\CoV.Web\\CoV.Service\\CoV.Service.csproj",
+        "projectName": "CoV.Service",
+        "projectPath": "C:\\Users\\fpt\\Downloads\\SHoesStoreTuli-Develop\\SHoesStoreTuli-Develop\\CoV.Web\\CoV.Service\\CoV.Service.csproj",
+        "packagesPath": "C:\\Users\\fpt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fpt\\Downloads\\SHoesStoreTuli-Develop\\SHoesStoreTuli-Develop\\CoV.Web\\CoV.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fpt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\fpt\\Downloads\\EFCore_Packages\\EFCore_Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {
+              "C:\\Users\\fpt\\Downloads\\SHoesStoreTuli-Develop\\SHoesStoreTuli-Develop\\CoV.Web\\CoV.Common\\CoV.Common.csproj": {
+                "projectPath": "C:\\Users\\fpt\\Downloads\\SHoesStoreTuli-Develop\\SHoesStoreTuli-Develop\\CoV.Web\\CoV.Common\\CoV.Common.csproj"
+              },
+              "C:\\Users\\fpt\\Downloads\\SHoesStoreTuli-Develop\\SHoesStoreTuli-Develop\\CoV.Web\\CoV.DataAccess\\CoV.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\fpt\\Downloads\\SHoesStoreTuli-Develop\\SHoesStoreTuli-Develop\\CoV.Web\\CoV.DataAccess\\CoV.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Mappers": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.9.1-dev-01154, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\fpt\\Downloads\\SHoesStoreTuli-Develop\\SHoesStoreTuli-Develop\\CoV.Web\\CoV.Web\\CoV.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fpt\\Downloads\\SHoesStoreTuli-Develop\\SHoesStoreTuli-Develop\\CoV.Web\\CoV.Web\\CoV.Web.csproj",
+        "projectName": "CoV.Web",
+        "projectPath": "C:\\Users\\fpt\\Downloads\\SHoesStoreTuli-Develop\\SHoesStoreTuli-Develop\\CoV.Web\\CoV.Web\\CoV.Web.csproj",
+        "packagesPath": "C:\\Users\\fpt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fpt\\Downloads\\SHoesStoreTuli-Develop\\SHoesStoreTuli-Develop\\CoV.Web\\CoV.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fpt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\fpt\\Downloads\\EFCore_Packages\\EFCore_Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {
+              "C:\\Users\\fpt\\Downloads\\SHoesStoreTuli-Develop\\SHoesStoreTuli-Develop\\CoV.Web\\CoV.Common\\CoV.Common.csproj": {
+                "projectPath": "C:\\Users\\fpt\\Downloads\\SHoesStoreTuli-Develop\\SHoesStoreTuli-Develop\\CoV.Web\\CoV.Common\\CoV.Common.csproj"
+              },
+              "C:\\Users\\fpt\\Downloads\\SHoesStoreTuli-Develop\\SHoesStoreTuli-Develop\\CoV.Web\\CoV.DataAccess\\CoV.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\fpt\\Downloads\\SHoesStoreTuli-Develop\\SHoesStoreTuli-Develop\\CoV.Web\\CoV.DataAccess\\CoV.DataAccess.csproj"
+              },
+              "C:\\Users\\fpt\\Downloads\\SHoesStoreTuli-Develop\\SHoesStoreTuli-Develop\\CoV.Web\\CoV.Service\\CoV.Service.csproj": {
+                "projectPath": "C:\\Users\\fpt\\Downloads\\SHoesStoreTuli-Develop\\SHoesStoreTuli-Develop\\CoV.Web\\CoV.Service\\CoV.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "AspNet.Core.SharePoint.Addin.Authentication": {
+              "target": "Package",
+              "version": "[0.0.0.2, )"
+            },
+            "AspNetCoreCurrentRequestContext": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "AuthorizationMiddlewareExtension": {
+              "target": "Package",
+              "version": "[1.2.3, )"
+            },
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "ClaimsCookie": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "EcoLogic.ErrorHandlingMiddleware": {
+              "target": "Package",
+              "version": "[0.6.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[8.6.1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[8.6.1, )"
+            },
+            "FluentValidation.Mvc5": {
+              "target": "Package",
+              "version": "[8.6.1, )"
+            },
+            "GreenWhale.ApplicationDbContext": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "Logger": {
+              "target": "Package",
+              "version": "[1.0.9.3, )"
+            },
+            "LoggerApplication": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Mappers": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            },
+            "Microsoft.AspNet.Session": {
+              "target": "Package",
+              "version": "[1.0.0-rc1-final, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Authorization": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.CookiePolicy": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "Microsoft.AspNetCore.MiddlewareAnalysis": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Session": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Logging.EventSource": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Logging.TraceSource": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.13.1, )"
+            },
+            "Serilog.Enrichers.AspNetCore.HttpContext": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "Serilog.Extensions.Logging.File": {
+              "target": "Package",
+              "version": "[2.0.0-dev-00039, )"
+            },
+            "SessionManager": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "System.Security.Claims": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "Useful.LoggerFactory.Log4net": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "jquery.dataTables.TypeScript.DefinitelyTyped": {
+              "target": "Package",
+              "version": "[0.6.7, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
