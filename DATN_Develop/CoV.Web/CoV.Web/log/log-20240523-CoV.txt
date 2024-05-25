@@ -1,0 +1,669 @@
+2024-05-23 11:23:44.551 +07:00 [Error]  Error 404
+2024-05-23 11:23:44.550 +07:00 [Error]  Error 404
+2024-05-23 11:23:44.558 +07:00 [Error]  Error 404
+2024-05-23 11:23:44.559 +07:00 [Error]  Error 404
+2024-05-23 11:23:44.559 +07:00 [Error]  Error 404
+2024-05-23 11:23:44.561 +07:00 [Error]  Error 404
+2024-05-23 11:23:44.569 +07:00 [Error]  Error 404
+2024-05-23 11:23:44.581 +07:00 [Error]  Error 404
+2024-05-23 11:23:44.581 +07:00 [Error]  Error 404
+2024-05-23 11:23:44.610 +07:00 [Error]  Error 404
+2024-05-23 11:23:44.610 +07:00 [Error]  Error 404
+2024-05-23 11:23:44.613 +07:00 [Error]  Error 404
+2024-05-23 11:23:44.613 +07:00 [Error]  Error 404
+2024-05-23 11:23:44.614 +07:00 [Error]  Error 404
+2024-05-23 11:24:06.178 +07:00 [Error]  Error 404
+2024-05-23 11:24:06.178 +07:00 [Error]  Error 404
+2024-05-23 11:24:06.183 +07:00 [Error]  Error 404
+2024-05-23 11:24:06.183 +07:00 [Error]  Error 404
+2024-05-23 11:24:06.192 +07:00 [Error]  Error 404
+2024-05-23 11:24:06.193 +07:00 [Error]  Error 404
+2024-05-23 11:24:06.194 +07:00 [Error]  Error 404
+2024-05-23 11:24:06.194 +07:00 [Error]  Error 404
+2024-05-23 11:24:06.194 +07:00 [Error]  Error 404
+2024-05-23 11:24:06.196 +07:00 [Error]  Error 404
+2024-05-23 11:24:06.196 +07:00 [Error]  Error 404
+2024-05-23 11:24:06.198 +07:00 [Error]  Error 404
+2024-05-23 11:24:06.247 +07:00 [Error]  Error 404
+2024-05-23 11:24:14.152 +07:00 [Error]  Error 404
+2024-05-23 11:24:14.153 +07:00 [Error]  Error 404
+2024-05-23 11:24:14.159 +07:00 [Error]  Error 404
+2024-05-23 11:24:14.159 +07:00 [Error]  Error 404
+2024-05-23 11:24:14.160 +07:00 [Error]  Error 404
+2024-05-23 11:24:14.160 +07:00 [Error]  Error 404
+2024-05-23 11:24:14.160 +07:00 [Error]  Error 404
+2024-05-23 11:24:14.160 +07:00 [Error]  Error 404
+2024-05-23 11:24:14.161 +07:00 [Error]  Error 404
+2024-05-23 11:24:14.161 +07:00 [Error]  Error 404
+2024-05-23 11:24:14.161 +07:00 [Error]  Error 404
+2024-05-23 11:24:14.161 +07:00 [Error]  Error 404
+2024-05-23 11:24:14.161 +07:00 [Error]  Error 404
+2024-05-23 11:24:14.162 +07:00 [Error]  Error 404
+2024-05-23 11:24:14.162 +07:00 [Error]  Error 404
+2024-05-23 11:24:24.587 +07:00 [Error]  Error 404
+2024-05-23 11:24:24.593 +07:00 [Error]  Error 404
+2024-05-23 11:24:24.594 +07:00 [Error]  Error 404
+2024-05-23 11:24:24.600 +07:00 [Error]  Error 404
+2024-05-23 11:24:24.600 +07:00 [Error]  Error 404
+2024-05-23 11:24:24.600 +07:00 [Error]  Error 404
+2024-05-23 11:24:24.600 +07:00 [Error]  Error 404
+2024-05-23 11:24:24.600 +07:00 [Error]  Error 404
+2024-05-23 11:24:24.600 +07:00 [Error]  Error 404
+2024-05-23 11:24:24.604 +07:00 [Error]  Error 404
+2024-05-23 11:24:24.604 +07:00 [Error]  Error 404
+2024-05-23 11:24:24.604 +07:00 [Error]  Error 404
+2024-05-23 11:24:24.632 +07:00 [Error]  Error 404
+2024-05-23 11:24:32.344 +07:00 [Error]  Error 404
+2024-05-23 11:24:32.344 +07:00 [Error]  Error 404
+2024-05-23 11:24:32.351 +07:00 [Error]  Error 404
+2024-05-23 11:24:32.351 +07:00 [Error]  Error 404
+2024-05-23 11:24:32.357 +07:00 [Error]  Error 404
+2024-05-23 11:24:32.357 +07:00 [Error]  Error 404
+2024-05-23 11:24:32.357 +07:00 [Error]  Error 404
+2024-05-23 11:24:41.899 +07:00 [Error]  Error 404
+2024-05-23 11:24:41.900 +07:00 [Error]  Error 404
+2024-05-23 11:24:41.908 +07:00 [Error]  Error 404
+2024-05-23 11:24:41.908 +07:00 [Error]  Error 404
+2024-05-23 11:24:41.908 +07:00 [Error]  Error 404
+2024-05-23 11:24:41.909 +07:00 [Error]  Error 404
+2024-05-23 11:24:41.909 +07:00 [Error]  Error 404
+2024-05-23 11:24:41.909 +07:00 [Error]  Error 404
+2024-05-23 11:24:41.909 +07:00 [Error]  Error 404
+2024-05-23 11:24:41.910 +07:00 [Error]  Error 404
+2024-05-23 11:24:41.910 +07:00 [Error]  Error 404
+2024-05-23 11:24:41.910 +07:00 [Error]  Error 404
+2024-05-23 11:24:41.910 +07:00 [Error]  Error 404
+2024-05-23 11:24:41.911 +07:00 [Error]  Error 404
+2024-05-23 11:24:41.914 +07:00 [Error]  Error 404
+2024-05-23 11:24:41.915 +07:00 [Error]  Error 404
+2024-05-23 11:24:55.234 +07:00 [Error] Login with account :admin@gmail.com
+2024-05-23 12:52:05.346 +07:00 [Error]  Error 404
+2024-05-23 12:52:05.346 +07:00 [Error]  Error 404
+2024-05-23 12:52:05.345 +07:00 [Error]  Error 404
+2024-05-23 12:52:05.347 +07:00 [Error]  Error 404
+2024-05-23 12:52:05.349 +07:00 [Error]  Error 404
+2024-05-23 12:52:05.350 +07:00 [Error]  Error 404
+2024-05-23 12:52:05.346 +07:00 [Error]  Error 404
+2024-05-23 12:52:05.346 +07:00 [Error]  Error 404
+2024-05-23 12:52:05.429 +07:00 [Error]  Error 404
+2024-05-23 12:52:05.526 +07:00 [Error]  Error 404
+2024-05-23 12:52:05.528 +07:00 [Error]  Error 404
+2024-05-23 12:52:05.530 +07:00 [Error]  Error 404
+2024-05-23 12:52:05.530 +07:00 [Error]  Error 404
+2024-05-23 12:52:05.531 +07:00 [Error]  Error 404
+2024-05-23 12:52:22.361 +07:00 [Error] Login with account :admin@gmail.com
+2024-05-23 12:52:36.818 +07:00 [Error]  Error 404
+2024-05-23 12:52:38.719 +07:00 [Error]  Error 404
+2024-05-23 12:52:38.726 +07:00 [Error]  Error 404
+2024-05-23 12:52:38.733 +07:00 [Error]  Error 404
+2024-05-23 12:52:38.737 +07:00 [Error]  Error 404
+2024-05-23 12:52:38.740 +07:00 [Error]  Error 404
+2024-05-23 12:52:38.743 +07:00 [Error]  Error 404
+2024-05-23 12:52:38.747 +07:00 [Error]  Error 404
+2024-05-23 12:52:38.752 +07:00 [Error]  Error 404
+2024-05-23 12:52:38.755 +07:00 [Error]  Error 404
+2024-05-23 12:52:38.758 +07:00 [Error]  Error 404
+2024-05-23 12:52:38.761 +07:00 [Error]  Error 404
+2024-05-23 12:52:38.765 +07:00 [Error]  Error 404
+2024-05-23 12:52:38.770 +07:00 [Error]  Error 404
+2024-05-23 12:52:38.969 +07:00 [Error]  Error 404
+2024-05-23 12:52:38.969 +07:00 [Error]  Error 404
+2024-05-23 12:52:38.969 +07:00 [Error]  Error 404
+2024-05-23 12:52:38.970 +07:00 [Error]  Error 404
+2024-05-23 12:52:38.970 +07:00 [Error]  Error 404
+2024-05-23 12:52:38.970 +07:00 [Error]  Error 404
+2024-05-23 12:52:38.970 +07:00 [Error]  Error 404
+2024-05-23 12:52:38.970 +07:00 [Error]  Error 404
+2024-05-23 12:52:38.970 +07:00 [Error]  Error 404
+2024-05-23 12:52:38.970 +07:00 [Error]  Error 404
+2024-05-23 12:52:38.971 +07:00 [Error]  Error 404
+2024-05-23 12:52:38.971 +07:00 [Error]  Error 404
+2024-05-23 12:52:38.971 +07:00 [Error]  Error 404
+2024-05-23 12:52:38.972 +07:00 [Error]  Error 404
+2024-05-23 12:52:45.525 +07:00 [Error]  Error 404
+2024-05-23 12:53:23.328 +07:00 [Error]  Error 404
+2024-05-23 12:53:25.260 +07:00 [Error]  Error 404
+2024-05-23 12:53:25.265 +07:00 [Error]  Error 404
+2024-05-23 12:53:25.269 +07:00 [Error]  Error 404
+2024-05-23 12:53:25.273 +07:00 [Error]  Error 404
+2024-05-23 12:53:25.277 +07:00 [Error]  Error 404
+2024-05-23 12:53:25.280 +07:00 [Error]  Error 404
+2024-05-23 12:53:25.285 +07:00 [Error]  Error 404
+2024-05-23 12:53:25.290 +07:00 [Error]  Error 404
+2024-05-23 12:53:25.320 +07:00 [Error]  Error 404
+2024-05-23 12:53:25.324 +07:00 [Error]  Error 404
+2024-05-23 12:53:25.328 +07:00 [Error]  Error 404
+2024-05-23 12:53:25.333 +07:00 [Error]  Error 404
+2024-05-23 12:53:25.506 +07:00 [Error]  Error 404
+2024-05-23 12:53:25.506 +07:00 [Error]  Error 404
+2024-05-23 12:53:25.506 +07:00 [Error]  Error 404
+2024-05-23 12:53:25.507 +07:00 [Error]  Error 404
+2024-05-23 12:53:25.507 +07:00 [Error]  Error 404
+2024-05-23 12:53:25.507 +07:00 [Error]  Error 404
+2024-05-23 12:53:25.507 +07:00 [Error]  Error 404
+2024-05-23 12:53:25.507 +07:00 [Error]  Error 404
+2024-05-23 12:53:25.507 +07:00 [Error]  Error 404
+2024-05-23 12:53:25.507 +07:00 [Error]  Error 404
+2024-05-23 12:53:25.508 +07:00 [Error]  Error 404
+2024-05-23 12:53:25.508 +07:00 [Error]  Error 404
+2024-05-23 12:53:25.509 +07:00 [Error]  Error 404
+2024-05-23 12:54:59.403 +07:00 [Error]  Error 404
+2024-05-23 12:55:06.407 +07:00 [Error]  Error 404
+2024-05-23 12:55:08.309 +07:00 [Error]  Error 404
+2024-05-23 12:55:08.313 +07:00 [Error]  Error 404
+2024-05-23 12:55:08.320 +07:00 [Error]  Error 404
+2024-05-23 12:55:08.325 +07:00 [Error]  Error 404
+2024-05-23 12:55:08.329 +07:00 [Error]  Error 404
+2024-05-23 12:55:08.334 +07:00 [Error]  Error 404
+2024-05-23 12:55:08.338 +07:00 [Error]  Error 404
+2024-05-23 12:55:08.342 +07:00 [Error]  Error 404
+2024-05-23 12:55:08.360 +07:00 [Error]  Error 404
+2024-05-23 12:55:08.366 +07:00 [Error]  Error 404
+2024-05-23 12:55:08.371 +07:00 [Error]  Error 404
+2024-05-23 12:55:08.568 +07:00 [Error]  Error 404
+2024-05-23 12:55:08.568 +07:00 [Error]  Error 404
+2024-05-23 12:55:08.568 +07:00 [Error]  Error 404
+2024-05-23 12:55:08.568 +07:00 [Error]  Error 404
+2024-05-23 12:55:08.569 +07:00 [Error]  Error 404
+2024-05-23 12:55:08.569 +07:00 [Error]  Error 404
+2024-05-23 12:55:08.569 +07:00 [Error]  Error 404
+2024-05-23 12:55:08.569 +07:00 [Error]  Error 404
+2024-05-23 12:55:08.569 +07:00 [Error]  Error 404
+2024-05-23 12:55:08.569 +07:00 [Error]  Error 404
+2024-05-23 12:55:08.569 +07:00 [Error]  Error 404
+2024-05-23 12:55:08.569 +07:00 [Error]  Error 404
+2024-05-23 12:55:12.156 +07:00 [Error]  Error 404
+2024-05-23 12:55:20.846 +07:00 [Error]  Error 404
+2024-05-23 12:55:22.820 +07:00 [Error]  Error 404
+2024-05-23 12:55:22.825 +07:00 [Error]  Error 404
+2024-05-23 12:55:22.839 +07:00 [Error]  Error 404
+2024-05-23 12:55:22.843 +07:00 [Error]  Error 404
+2024-05-23 12:55:22.854 +07:00 [Error]  Error 404
+2024-05-23 12:55:22.857 +07:00 [Error]  Error 404
+2024-05-23 12:55:22.861 +07:00 [Error]  Error 404
+2024-05-23 12:55:22.871 +07:00 [Error]  Error 404
+2024-05-23 12:55:22.875 +07:00 [Error]  Error 404
+2024-05-23 12:55:22.878 +07:00 [Error]  Error 404
+2024-05-23 12:55:23.000 +07:00 [Error]  Error 404
+2024-05-23 12:55:23.000 +07:00 [Error]  Error 404
+2024-05-23 12:55:23.001 +07:00 [Error]  Error 404
+2024-05-23 12:55:23.002 +07:00 [Error]  Error 404
+2024-05-23 12:55:23.002 +07:00 [Error]  Error 404
+2024-05-23 12:55:23.003 +07:00 [Error]  Error 404
+2024-05-23 12:55:23.003 +07:00 [Error]  Error 404
+2024-05-23 12:55:23.003 +07:00 [Error]  Error 404
+2024-05-23 12:55:23.003 +07:00 [Error]  Error 404
+2024-05-23 12:55:23.005 +07:00 [Error]  Error 404
+2024-05-23 12:55:23.006 +07:00 [Error]  Error 404
+2024-05-23 12:55:25.879 +07:00 [Error]  Error 404
+2024-05-23 12:55:36.528 +07:00 [Error]  Error 404
+2024-05-23 12:55:38.511 +07:00 [Error]  Error 404
+2024-05-23 12:55:38.516 +07:00 [Error]  Error 404
+2024-05-23 12:55:38.520 +07:00 [Error]  Error 404
+2024-05-23 12:55:38.525 +07:00 [Error]  Error 404
+2024-05-23 12:55:38.543 +07:00 [Error]  Error 404
+2024-05-23 12:55:38.549 +07:00 [Error]  Error 404
+2024-05-23 12:55:38.553 +07:00 [Error]  Error 404
+2024-05-23 12:55:38.567 +07:00 [Error]  Error 404
+2024-05-23 12:55:38.570 +07:00 [Error]  Error 404
+2024-05-23 12:55:38.668 +07:00 [Error]  Error 404
+2024-05-23 12:55:38.668 +07:00 [Error]  Error 404
+2024-05-23 12:55:38.670 +07:00 [Error]  Error 404
+2024-05-23 12:55:38.670 +07:00 [Error]  Error 404
+2024-05-23 12:55:38.670 +07:00 [Error]  Error 404
+2024-05-23 12:55:38.670 +07:00 [Error]  Error 404
+2024-05-23 12:55:38.670 +07:00 [Error]  Error 404
+2024-05-23 12:55:38.670 +07:00 [Error]  Error 404
+2024-05-23 12:55:38.670 +07:00 [Error]  Error 404
+2024-05-23 12:55:38.671 +07:00 [Error]  Error 404
+2024-05-23 12:55:41.122 +07:00 [Error]  Error 404
+2024-05-23 12:56:03.858 +07:00 [Error]  Error 404
+2024-05-23 12:56:06.068 +07:00 [Error]  Error 404
+2024-05-23 12:56:06.068 +07:00 [Error]  Error 404
+2024-05-23 12:56:06.073 +07:00 [Error]  Error 404
+2024-05-23 12:56:06.074 +07:00 [Error]  Error 404
+2024-05-23 12:56:06.074 +07:00 [Error]  Error 404
+2024-05-23 12:56:06.074 +07:00 [Error]  Error 404
+2024-05-23 12:56:06.076 +07:00 [Error]  Error 404
+2024-05-23 12:56:06.076 +07:00 [Error]  Error 404
+2024-05-23 12:56:06.169 +07:00 [Error]  Error 404
+2024-05-23 12:56:06.169 +07:00 [Error]  Error 404
+2024-05-23 12:56:06.170 +07:00 [Error]  Error 404
+2024-05-23 12:56:06.170 +07:00 [Error]  Error 404
+2024-05-23 12:56:06.170 +07:00 [Error]  Error 404
+2024-05-23 12:56:06.171 +07:00 [Error]  Error 404
+2024-05-23 12:56:06.172 +07:00 [Error]  Error 404
+2024-05-23 12:56:06.173 +07:00 [Error]  Error 404
+2024-05-23 12:56:06.173 +07:00 [Error]  Error 404
+2024-05-23 12:56:09.537 +07:00 [Error]  Error 404
+2024-05-23 12:56:21.680 +07:00 [Error]  Error 404
+2024-05-23 12:56:23.511 +07:00 [Error]  Error 404
+2024-05-23 12:56:23.524 +07:00 [Error]  Error 404
+2024-05-23 12:56:23.532 +07:00 [Error]  Error 404
+2024-05-23 12:56:23.541 +07:00 [Error]  Error 404
+2024-05-23 12:56:23.547 +07:00 [Error]  Error 404
+2024-05-23 12:56:23.551 +07:00 [Error]  Error 404
+2024-05-23 12:56:23.572 +07:00 [Error]  Error 404
+2024-05-23 12:56:23.825 +07:00 [Error]  Error 404
+2024-05-23 12:56:23.825 +07:00 [Error]  Error 404
+2024-05-23 12:56:23.826 +07:00 [Error]  Error 404
+2024-05-23 12:56:23.826 +07:00 [Error]  Error 404
+2024-05-23 12:56:23.826 +07:00 [Error]  Error 404
+2024-05-23 12:56:23.826 +07:00 [Error]  Error 404
+2024-05-23 12:56:23.826 +07:00 [Error]  Error 404
+2024-05-23 12:56:23.826 +07:00 [Error]  Error 404
+2024-05-23 12:56:26.483 +07:00 [Error]  Error 404
+2024-05-23 12:56:39.594 +07:00 [Error]  Error 404
+2024-05-23 12:56:41.595 +07:00 [Error]  Error 404
+2024-05-23 12:56:41.604 +07:00 [Error]  Error 404
+2024-05-23 12:56:41.613 +07:00 [Error]  Error 404
+2024-05-23 12:56:41.623 +07:00 [Error]  Error 404
+2024-05-23 12:56:41.628 +07:00 [Error]  Error 404
+2024-05-23 12:56:41.634 +07:00 [Error]  Error 404
+2024-05-23 12:56:41.767 +07:00 [Error]  Error 404
+2024-05-23 12:56:41.767 +07:00 [Error]  Error 404
+2024-05-23 12:56:41.768 +07:00 [Error]  Error 404
+2024-05-23 12:56:41.768 +07:00 [Error]  Error 404
+2024-05-23 12:56:41.768 +07:00 [Error]  Error 404
+2024-05-23 12:56:41.768 +07:00 [Error]  Error 404
+2024-05-23 12:56:41.769 +07:00 [Error]  Error 404
+2024-05-23 12:56:44.203 +07:00 [Error]  Error 404
+2024-05-23 12:57:36.525 +07:00 [Error]  Error 404
+2024-05-23 12:57:38.541 +07:00 [Error]  Error 404
+2024-05-23 12:57:38.541 +07:00 [Error]  Error 404
+2024-05-23 12:57:38.549 +07:00 [Error]  Error 404
+2024-05-23 12:57:38.549 +07:00 [Error]  Error 404
+2024-05-23 12:57:38.552 +07:00 [Error]  Error 404
+2024-05-23 12:57:38.698 +07:00 [Error]  Error 404
+2024-05-23 12:57:38.698 +07:00 [Error]  Error 404
+2024-05-23 12:57:38.698 +07:00 [Error]  Error 404
+2024-05-23 12:57:38.698 +07:00 [Error]  Error 404
+2024-05-23 12:57:38.698 +07:00 [Error]  Error 404
+2024-05-23 12:57:38.699 +07:00 [Error]  Error 404
+2024-05-23 12:57:49.923 +07:00 [Error]  Error 404
+2024-05-23 12:57:51.924 +07:00 [Error]  Error 404
+2024-05-23 12:57:51.937 +07:00 [Error]  Error 404
+2024-05-23 12:57:51.947 +07:00 [Error]  Error 404
+2024-05-23 12:57:51.952 +07:00 [Error]  Error 404
+2024-05-23 12:57:51.954 +07:00 [Error]  Error 404
+2024-05-23 12:57:52.048 +07:00 [Error]  Error 404
+2024-05-23 12:57:52.049 +07:00 [Error]  Error 404
+2024-05-23 12:57:52.049 +07:00 [Error]  Error 404
+2024-05-23 12:57:52.049 +07:00 [Error]  Error 404
+2024-05-23 12:57:52.049 +07:00 [Error]  Error 404
+2024-05-23 12:57:52.049 +07:00 [Error]  Error 404
+2024-05-23 12:58:09.455 +07:00 [Error]  Error 404
+2024-05-23 12:58:11.436 +07:00 [Error]  Error 404
+2024-05-23 12:58:11.441 +07:00 [Error]  Error 404
+2024-05-23 12:58:11.448 +07:00 [Error]  Error 404
+2024-05-23 12:58:11.456 +07:00 [Error]  Error 404
+2024-05-23 12:58:11.459 +07:00 [Error]  Error 404
+2024-05-23 12:58:11.581 +07:00 [Error]  Error 404
+2024-05-23 12:58:11.581 +07:00 [Error]  Error 404
+2024-05-23 12:58:11.581 +07:00 [Error]  Error 404
+2024-05-23 12:58:11.581 +07:00 [Error]  Error 404
+2024-05-23 12:58:11.581 +07:00 [Error]  Error 404
+2024-05-23 12:58:11.581 +07:00 [Error]  Error 404
+2024-05-23 12:58:14.905 +07:00 [Error]  Error 404
+2024-05-23 12:58:26.945 +07:00 [Error]  Error 404
+2024-05-23 12:58:28.904 +07:00 [Error]  Error 404
+2024-05-23 12:58:28.910 +07:00 [Error]  Error 404
+2024-05-23 12:58:28.920 +07:00 [Error]  Error 404
+2024-05-23 12:58:28.944 +07:00 [Error]  Error 404
+2024-05-23 12:58:29.154 +07:00 [Error]  Error 404
+2024-05-23 12:58:29.155 +07:00 [Error]  Error 404
+2024-05-23 12:58:29.155 +07:00 [Error]  Error 404
+2024-05-23 12:58:29.156 +07:00 [Error]  Error 404
+2024-05-23 12:58:29.157 +07:00 [Error]  Error 404
+2024-05-23 12:58:37.445 +07:00 [Error]  Error 404
+2024-05-23 12:58:52.296 +07:00 [Error]  Error 404
+2024-05-23 12:58:54.293 +07:00 [Error]  Error 404
+2024-05-23 12:58:54.297 +07:00 [Error]  Error 404
+2024-05-23 12:58:54.337 +07:00 [Error]  Error 404
+2024-05-23 12:58:54.440 +07:00 [Error]  Error 404
+2024-05-23 12:58:54.440 +07:00 [Error]  Error 404
+2024-05-23 12:58:54.440 +07:00 [Error]  Error 404
+2024-05-23 12:58:54.442 +07:00 [Error]  Error 404
+2024-05-23 12:58:59.013 +07:00 [Error]  Error 404
+2024-05-23 12:59:08.689 +07:00 [Error]  Error 404
+2024-05-23 12:59:10.664 +07:00 [Error]  Error 404
+2024-05-23 12:59:10.670 +07:00 [Error]  Error 404
+2024-05-23 12:59:10.826 +07:00 [Error]  Error 404
+2024-05-23 12:59:10.826 +07:00 [Error]  Error 404
+2024-05-23 12:59:10.826 +07:00 [Error]  Error 404
+2024-05-23 12:59:15.306 +07:00 [Error]  Error 404
+2024-05-23 13:00:03.988 +07:00 [Error]  Error 404
+2024-05-23 13:00:03.988 +07:00 [Error]  Error 404
+2024-05-23 13:00:04.161 +07:00 [Error]  Error 404
+2024-05-23 13:00:04.161 +07:00 [Error]  Error 404
+2024-05-23 13:00:09.742 +07:00 [Error]  Error 404
+2024-05-23 13:00:31.601 +07:00 [Error]  Error 404
+2024-05-23 13:00:31.797 +07:00 [Error]  Error 404
+2024-05-23 13:00:35.534 +07:00 [Error]  Error 404
+2024-05-23 13:07:19.136 +07:00 [Error]  Error 404
+2024-05-23 13:09:18.156 +07:00 [Error]  Error 404
+2024-05-23 13:09:23.331 +07:00 [Error]  Error 404
+2024-05-23 13:10:24.873 +07:00 [Error]  Error 404
+2024-05-23 13:10:29.848 +07:00 [Error]  Error 404
+2024-05-23 13:11:26.527 +07:00 [Error]  Error 404
+2024-05-23 13:11:39.932 +07:00 [Error]  Error 404
+2024-05-23 13:11:59.183 +07:00 [Error]  Error 404
+2024-05-23 13:13:16.667 +07:00 [Error]  Error 404
+2024-05-23 13:13:16.674 +07:00 [Error]  Error 404
+2024-05-23 13:13:16.681 +07:00 [Error]  Error 404
+2024-05-23 13:13:16.846 +07:00 [Error]  Error 404
+2024-05-23 13:13:16.846 +07:00 [Error]  Error 404
+2024-05-23 13:13:16.846 +07:00 [Error]  Error 404
+2024-05-23 13:13:37.722 +07:00 [Error]  Error 404
+2024-05-23 13:13:52.144 +07:00 [Error]  Error 404
+2024-05-23 13:13:57.664 +07:00 [Error]  Error 404
+2024-05-23 13:15:34.766 +07:00 [Error]  Error 404
+2024-05-23 13:15:41.699 +07:00 [Error]  Error 404
+2024-05-23 13:15:41.720 +07:00 [Error]  Error 404
+2024-05-23 13:15:50.382 +07:00 [Error]  Error 404
+2024-05-23 13:15:50.402 +07:00 [Error]  Error 404
+2024-05-23 13:16:21.828 +07:00 [Error]  Error 404
+2024-05-23 13:16:21.859 +07:00 [Error]  Error 404
+2024-05-23 13:17:29.026 +07:00 [Error]  Error 404
+2024-05-23 13:17:37.355 +07:00 [Error]  Error 404
+2024-05-23 13:17:37.378 +07:00 [Error]  Error 404
+2024-05-23 13:17:47.578 +07:00 [Error]  Error 404
+2024-05-23 13:17:50.980 +07:00 [Error]  Error 404
+2024-05-23 13:17:50.990 +07:00 [Error]  Error 404
+2024-05-23 13:17:51.010 +07:00 [Error]  Error 404
+2024-05-23 13:19:13.847 +07:00 [Error]  Error 404
+2024-05-23 13:19:23.139 +07:00 [Error]  Error 404
+2024-05-23 13:20:25.051 +07:00 [Error]  Error 404
+2024-05-23 21:23:49.553 +07:00 [Error] Login with account :shipper@gmail.com
+2024-05-23 21:24:05.527 +07:00 [Error] Login with account :admin@gmail.com
+2024-05-23 21:24:18.574 +07:00 [Error]  Error 404
+2024-05-23 21:25:32.428 +07:00 [Error]  Error 404
+2024-05-23 21:33:29.845 +07:00 [Error] Login with account :admin@gmail.com
+2024-05-23 21:36:45.461 +07:00 [Error] Login with account :admin@gmail.com
+2024-05-23 21:50:55.741 +07:00 [Error] Login with account :admin@gmail.com
+2024-05-23 21:52:57.244 +07:00 [Error] Login with account :admin@gmail.com
+2024-05-23 21:53:41.820 +07:00 [Error]  Error 404
+2024-05-23 21:53:41.850 +07:00 [Error]  Error 404
+2024-05-23 21:53:59.745 +07:00 [Error]  Error 404
+2024-05-23 21:56:28.800 +07:00 [Error]  Error 401
+2024-05-23 21:58:08.603 +07:00 [Error]  Error 404
+2024-05-23 21:58:08.641 +07:00 [Error]  Error 404
+2024-05-23 21:58:38.535 +07:00 [Error]  Error 404
+2024-05-23 21:58:38.540 +07:00 [Error]  Error 404
+2024-05-23 21:58:38.549 +07:00 [Error]  Error 404
+2024-05-23 21:58:38.681 +07:00 [Error]  Error 404
+2024-05-23 21:58:38.681 +07:00 [Error]  Error 404
+2024-05-23 21:58:38.681 +07:00 [Error]  Error 404
+2024-05-23 21:58:43.154 +07:00 [Error]  Error 404
+2024-05-23 21:58:54.686 +07:00 [Error]  Error 404
+2024-05-23 21:58:54.686 +07:00 [Error]  Error 404
+2024-05-23 21:58:54.820 +07:00 [Error]  Error 404
+2024-05-23 21:58:54.820 +07:00 [Error]  Error 404
+2024-05-23 21:58:57.473 +07:00 [Error]  Error 404
+2024-05-23 21:59:10.472 +07:00 [Error]  Error 404
+2024-05-23 21:59:10.709 +07:00 [Error]  Error 404
+2024-05-23 21:59:14.677 +07:00 [Error]  Error 404
+2024-05-23 22:00:40.591 +07:00 [Error]  Error 401
+2024-05-23 22:02:04.409 +07:00 [Error]  Error 404
+2024-05-23 22:03:20.834 +07:00 [Error]  Error 404
+2024-05-23 22:03:28.857 +07:00 [Error]  Error 404
+2024-05-23 22:03:43.752 +07:00 [Error]  Error 404
+2024-05-23 22:04:08.426 +07:00 [Error]  Error 401
+2024-05-23 22:07:11.079 +07:00 [Error]  Error 404
+2024-05-23 22:09:45.301 +07:00 [Error]  Error 404
+2024-05-23 22:10:10.912 +07:00 [Error]  Error 404
+2024-05-23 22:10:29.723 +07:00 [Error]  Error 404
+2024-05-23 22:11:01.986 +07:00 [Error]  Error 404
+2024-05-23 22:14:41.810 +07:00 [Error]  Error 404
+2024-05-23 22:14:55.114 +07:00 [Error]  Error 404
+2024-05-23 22:15:35.137 +07:00 [Error]  Error 401
+2024-05-23 22:18:57.417 +07:00 [Error]  Error 404
+2024-05-23 22:19:47.632 +07:00 [Error] Login with account :employee@gmail.com
+2024-05-23 22:20:20.646 +07:00 [Error]  Error 404
+2024-05-23 22:20:43.979 +07:00 [Error]  Error 401
+2024-05-23 22:24:41.743 +07:00 [Error]  Error 404
+2024-05-23 22:29:38.462 +07:00 [Error]  Error 404
+2024-05-23 22:29:47.274 +07:00 [Error]  Error 404
+2024-05-23 22:30:54.160 +07:00 [Error]  Error 404
+2024-05-23 22:31:40.632 +07:00 [Error]  Error 404
+2024-05-23 22:31:41.717 +07:00 [Error]  Error 404
+2024-05-23 22:31:43.118 +07:00 [Error]  Error 404
+2024-05-23 22:31:44.575 +07:00 [Error]  Error 404
+2024-05-23 22:32:01.686 +07:00 [Error]  Error 404
+2024-05-23 22:32:05.299 +07:00 [Error]  Error 404
+2024-05-23 22:32:14.704 +07:00 [Error]  Error 404
+2024-05-23 22:37:01.537 +07:00 [Error]  Error 404
+2024-05-23 22:41:59.966 +07:00 [Error] An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at System.String.IndexOf(String value, Int32 startIndex, Int32 count, StringComparison comparisonType)
+   at System.String.Contains(String value)
+   at CoV.Web.Controllers.ProductController.<>c__DisplayClass16_0.<Search>b__0(ProductViewModel c) in C:\Users\fpt\Downloads\SHoesStoreTuli-Develop\SHoesStoreTuli-Develop\CoV.Web\CoV.Web\Controllers\ProductController.cs:line 347
+   at System.Linq.Enumerable.WhereListIterator`1.ToList()
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at CoV.Web.Controllers.ProductController.Search(String input) in C:\Users\fpt\Downloads\SHoesStoreTuli-Develop\SHoesStoreTuli-Develop\CoV.Web\CoV.Web\Controllers\ProductController.cs:line 347
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at CoV.Web.Infrastructure.Middleware.PageAccessdenied.Invoke(HttpContext context) in C:\Users\fpt\Downloads\SHoesStoreTuli-Develop\SHoesStoreTuli-Develop\CoV.Web\CoV.Web\Infrastructure\Middleware\PageAccessdenied.cs:line 19
+   at CoV.Web.Infrastructure.Middleware.PageNotFound.Invoke(HttpContext context) in C:\Users\fpt\Downloads\SHoesStoreTuli-Develop\SHoesStoreTuli-Develop\CoV.Web\CoV.Web\Infrastructure\Middleware\PageNotFound.cs:line 25
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2024-05-23 22:42:55.123 +07:00 [Error] An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at System.String.IndexOf(String value, Int32 startIndex, Int32 count, StringComparison comparisonType)
+   at System.String.Contains(String value)
+   at CoV.Web.Controllers.ProductController.<>c__DisplayClass16_0.<Search>b__0(ProductViewModel c) in C:\Users\fpt\Downloads\SHoesStoreTuli-Develop\SHoesStoreTuli-Develop\CoV.Web\CoV.Web\Controllers\ProductController.cs:line 347
+   at System.Linq.Enumerable.WhereListIterator`1.ToList()
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at CoV.Web.Controllers.ProductController.Search(String input) in C:\Users\fpt\Downloads\SHoesStoreTuli-Develop\SHoesStoreTuli-Develop\CoV.Web\CoV.Web\Controllers\ProductController.cs:line 347
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at CoV.Web.Infrastructure.Middleware.PageAccessdenied.Invoke(HttpContext context) in C:\Users\fpt\Downloads\SHoesStoreTuli-Develop\SHoesStoreTuli-Develop\CoV.Web\CoV.Web\Infrastructure\Middleware\PageAccessdenied.cs:line 19
+   at CoV.Web.Infrastructure.Middleware.PageNotFound.Invoke(HttpContext context) in C:\Users\fpt\Downloads\SHoesStoreTuli-Develop\SHoesStoreTuli-Develop\CoV.Web\CoV.Web\Infrastructure\Middleware\PageNotFound.cs:line 25
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2024-05-23 22:46:12.143 +07:00 [Error] An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at System.String.IndexOf(String value, Int32 startIndex, Int32 count, StringComparison comparisonType)
+   at System.String.Contains(String value)
+   at CoV.Web.Controllers.ProductController.<>c__DisplayClass16_0.<Search>b__0(ProductViewModel c) in C:\Users\fpt\Downloads\SHoesStoreTuli-Develop\SHoesStoreTuli-Develop\CoV.Web\CoV.Web\Controllers\ProductController.cs:line 347
+   at System.Linq.Enumerable.WhereListIterator`1.ToList()
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at CoV.Web.Controllers.ProductController.Search(String input) in C:\Users\fpt\Downloads\SHoesStoreTuli-Develop\SHoesStoreTuli-Develop\CoV.Web\CoV.Web\Controllers\ProductController.cs:line 347
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at CoV.Web.Infrastructure.Middleware.PageAccessdenied.Invoke(HttpContext context) in C:\Users\fpt\Downloads\SHoesStoreTuli-Develop\SHoesStoreTuli-Develop\CoV.Web\CoV.Web\Infrastructure\Middleware\PageAccessdenied.cs:line 19
+   at CoV.Web.Infrastructure.Middleware.PageNotFound.Invoke(HttpContext context) in C:\Users\fpt\Downloads\SHoesStoreTuli-Develop\SHoesStoreTuli-Develop\CoV.Web\CoV.Web\Infrastructure\Middleware\PageNotFound.cs:line 25
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2024-05-23 22:46:43.984 +07:00 [Error]  Error 401
+2024-05-23 22:55:05.071 +07:00 [Error]  Error 404
+2024-05-23 23:19:10.706 +07:00 [Error] An unhandled exception has occurred while executing the request.
+System.InvalidCastException: Unable to cast object of type 'System.Collections.Generic.List`1[CoV.DataAccess.Data.Product]' to type 'System.Collections.Generic.IEnumerable`1[CoV.Service.DataModel.ProductViewModel]'.
+   at CoV.Service.Service.ProductService.CoV.Service.Service.IProductService.ObjectContext(String search) in C:\Users\fpt\Downloads\SHoesStoreTuli-Develop\SHoesStoreTuli-Develop\CoV.Web\CoV.Service\Service\ProductService\ProductService.cs:line 261
+   at CoV.Web.Controllers.ProductController.Search(String input) in C:\Users\fpt\Downloads\SHoesStoreTuli-Develop\SHoesStoreTuli-Develop\CoV.Web\CoV.Web\Controllers\ProductController.cs:line 348
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at CoV.Web.Infrastructure.Middleware.PageAccessdenied.Invoke(HttpContext context) in C:\Users\fpt\Downloads\SHoesStoreTuli-Develop\SHoesStoreTuli-Develop\CoV.Web\CoV.Web\Infrastructure\Middleware\PageAccessdenied.cs:line 19
+   at CoV.Web.Infrastructure.Middleware.PageNotFound.Invoke(HttpContext context) in C:\Users\fpt\Downloads\SHoesStoreTuli-Develop\SHoesStoreTuli-Develop\CoV.Web\CoV.Web\Infrastructure\Middleware\PageNotFound.cs:line 25
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2024-05-23 23:27:06.590 +07:00 [Error] An unhandled exception has occurred while executing the request.
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+List`1 -> IQueryable`1
+System.Collections.Generic.List`1[[CoV.DataAccess.Data.Product, CoV.DataAccess, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Linq.IQueryable`1[[CoV.Service.DataModel.ProductViewModel, CoV.Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] ---> System.InvalidCastException: Unable to cast object of type 'System.Collections.Generic.List`1[CoV.Service.DataModel.ProductViewModel]' to type 'System.Linq.IQueryable`1[CoV.Service.DataModel.ProductViewModel]'.
+   at lambda_method(Closure , List`1 , IQueryable`1 , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method(Closure , List`1 , IQueryable`1 , ResolutionContext )
+   at lambda_method(Closure , Object , Object , ResolutionContext )
+   at AutoMapper.Mapper.Map[TDestination](Object source) in C:\projects\automapper\src\AutoMapper\Mapper.cs:line 35
+   at CoV.Service.Service.ProductService.CoV.Service.Service.IProductService.GetAll1(String search) in C:\Users\fpt\Downloads\SHoesStoreTuli-Develop\SHoesStoreTuli-Develop\CoV.Web\CoV.Service\Service\ProductService\ProductService.cs:line 266
+   at CoV.Web.Controllers.ProductController.Search(String input) in C:\Users\fpt\Downloads\SHoesStoreTuli-Develop\SHoesStoreTuli-Develop\CoV.Web\CoV.Web\Controllers\ProductController.cs:line 348
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at CoV.Web.Infrastructure.Middleware.PageAccessdenied.Invoke(HttpContext context) in C:\Users\fpt\Downloads\SHoesStoreTuli-Develop\SHoesStoreTuli-Develop\CoV.Web\CoV.Web\Infrastructure\Middleware\PageAccessdenied.cs:line 19
+   at CoV.Web.Infrastructure.Middleware.PageNotFound.Invoke(HttpContext context) in C:\Users\fpt\Downloads\SHoesStoreTuli-Develop\SHoesStoreTuli-Develop\CoV.Web\CoV.Web\Infrastructure\Middleware\PageNotFound.cs:line 25
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2024-05-23 23:27:49.530 +07:00 [Error] An unhandled exception has occurred while executing the request.
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+List`1 -> IQueryable`1
+System.Collections.Generic.List`1[[CoV.DataAccess.Data.Product, CoV.DataAccess, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Linq.IQueryable`1[[CoV.Service.DataModel.ProductViewModel, CoV.Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] ---> System.InvalidCastException: Unable to cast object of type 'System.Collections.Generic.List`1[CoV.Service.DataModel.ProductViewModel]' to type 'System.Linq.IQueryable`1[CoV.Service.DataModel.ProductViewModel]'.
+   at lambda_method(Closure , List`1 , IQueryable`1 , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method(Closure , List`1 , IQueryable`1 , ResolutionContext )
+   at lambda_method(Closure , Object , Object , ResolutionContext )
+   at AutoMapper.Mapper.Map[TDestination](Object source) in C:\projects\automapper\src\AutoMapper\Mapper.cs:line 35
+   at CoV.Service.Service.ProductService.CoV.Service.Service.IProductService.GetAll1(String search) in C:\Users\fpt\Downloads\SHoesStoreTuli-Develop\SHoesStoreTuli-Develop\CoV.Web\CoV.Service\Service\ProductService\ProductService.cs:line 266
+   at CoV.Web.Controllers.ProductController.Search(String input) in C:\Users\fpt\Downloads\SHoesStoreTuli-Develop\SHoesStoreTuli-Develop\CoV.Web\CoV.Web\Controllers\ProductController.cs:line 348
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at CoV.Web.Infrastructure.Middleware.PageAccessdenied.Invoke(HttpContext context) in C:\Users\fpt\Downloads\SHoesStoreTuli-Develop\SHoesStoreTuli-Develop\CoV.Web\CoV.Web\Infrastructure\Middleware\PageAccessdenied.cs:line 19
+   at CoV.Web.Infrastructure.Middleware.PageNotFound.Invoke(HttpContext context) in C:\Users\fpt\Downloads\SHoesStoreTuli-Develop\SHoesStoreTuli-Develop\CoV.Web\CoV.Web\Infrastructure\Middleware\PageNotFound.cs:line 25
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2024-05-23 23:28:46.755 +07:00 [Error] An unhandled exception has occurred while executing the request.
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+List`1 -> IQueryable`1
+System.Collections.Generic.List`1[[CoV.DataAccess.Data.Product, CoV.DataAccess, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Linq.IQueryable`1[[CoV.Service.DataModel.ProductViewModel, CoV.Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] ---> System.InvalidCastException: Unable to cast object of type 'System.Collections.Generic.List`1[CoV.Service.DataModel.ProductViewModel]' to type 'System.Linq.IQueryable`1[CoV.Service.DataModel.ProductViewModel]'.
+   at lambda_method(Closure , List`1 , IQueryable`1 , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method(Closure , List`1 , IQueryable`1 , ResolutionContext )
+   at lambda_method(Closure , Object , Object , ResolutionContext )
+   at AutoMapper.Mapper.Map[TDestination](Object source) in C:\projects\automapper\src\AutoMapper\Mapper.cs:line 35
+   at CoV.Service.Service.ProductService.CoV.Service.Service.IProductService.GetAll1(String search) in C:\Users\fpt\Downloads\SHoesStoreTuli-Develop\SHoesStoreTuli-Develop\CoV.Web\CoV.Service\Service\ProductService\ProductService.cs:line 266
+   at CoV.Web.Controllers.ProductController.Search(String input) in C:\Users\fpt\Downloads\SHoesStoreTuli-Develop\SHoesStoreTuli-Develop\CoV.Web\CoV.Web\Controllers\ProductController.cs:line 348
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at CoV.Web.Infrastructure.Middleware.PageAccessdenied.Invoke(HttpContext context) in C:\Users\fpt\Downloads\SHoesStoreTuli-Develop\SHoesStoreTuli-Develop\CoV.Web\CoV.Web\Infrastructure\Middleware\PageAccessdenied.cs:line 19
+   at CoV.Web.Infrastructure.Middleware.PageNotFound.Invoke(HttpContext context) in C:\Users\fpt\Downloads\SHoesStoreTuli-Develop\SHoesStoreTuli-Develop\CoV.Web\CoV.Web\Infrastructure\Middleware\PageNotFound.cs:line 25
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2024-05-23 23:49:37.685 +07:00 [Error]  Error 404
+2024-05-23 23:52:38.915 +07:00 [Error] Login with account :admin@gmail.com
+2024-05-23 23:53:10.390 +07:00 [Error]  Error 404
+2024-05-23 23:54:12.673 +07:00 [Error]  Error 404
+2024-05-23 23:54:13.989 +07:00 [Error]  Error 404
+2024-05-23 23:57:50.895 +07:00 [Error]  Error 404
+2024-05-23 23:57:58.698 +07:00 [Error]  Error 404
+2024-05-23 23:59:15.519 +07:00 [Error]  Error 404

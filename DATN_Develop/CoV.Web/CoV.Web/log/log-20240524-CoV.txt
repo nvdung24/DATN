@@ -1,0 +1,156 @@
+2024-05-24 00:01:44.974 +07:00 [Error]  Error 404
+2024-05-24 00:02:31.094 +07:00 [Error]  Error 404
+2024-05-24 00:03:36.337 +07:00 [Error]  Error 404
+2024-05-24 00:39:00.066 +07:00 [Error]  Error 404
+2024-05-24 18:36:04.893 +07:00 [Error]  Error 404
+2024-05-24 18:36:37.123 +07:00 [Error]  Error 404
+2024-05-24 18:51:58.474 +07:00 [Error] Login with account :admin@gmail.com
+2024-05-24 19:00:42.803 +07:00 [Error] The view '"DeleteCustomer"' was not found. Searched locations: ["/Views/OrderDetals/DeleteCustomer.cshtml", "/Views/Shared/DeleteCustomer.cshtml", "/Pages/Shared/DeleteCustomer.cshtml"]
+2024-05-24 19:00:42.866 +07:00 [Error] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The view 'DeleteCustomer' was not found. The following locations were searched:
+/Views/OrderDetals/DeleteCustomer.cshtml
+/Views/Shared/DeleteCustomer.cshtml
+/Pages/Shared/DeleteCustomer.cshtml
+   at Microsoft.AspNetCore.Mvc.ViewEngines.ViewEngineResult.EnsureSuccessful(IEnumerable`1 originalLocations)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeResultAsync(IActionResult result)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResultFilterAsync[TFilter,TFilterAsync]()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResultExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeResultFilters()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at CoV.Web.Infrastructure.Middleware.PageAccessdenied.Invoke(HttpContext context) in C:\Users\fpt\Downloads\SHoesStoreTuli-Develop\SHoesStoreTuli-Develop\CoV.Web\CoV.Web\Infrastructure\Middleware\PageAccessdenied.cs:line 19
+   at CoV.Web.Infrastructure.Middleware.PageNotFound.Invoke(HttpContext context) in C:\Users\fpt\Downloads\SHoesStoreTuli-Develop\SHoesStoreTuli-Develop\CoV.Web\CoV.Web\Infrastructure\Middleware\PageNotFound.cs:line 25
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2024-05-24 19:01:53.778 +07:00 [Error] The view '"DeleteCustomer"' was not found. Searched locations: ["/Views/OrderDetals/DeleteCustomer.cshtml", "/Views/Shared/DeleteCustomer.cshtml", "/Pages/Shared/DeleteCustomer.cshtml"]
+2024-05-24 19:01:53.779 +07:00 [Error] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The view 'DeleteCustomer' was not found. The following locations were searched:
+/Views/OrderDetals/DeleteCustomer.cshtml
+/Views/Shared/DeleteCustomer.cshtml
+/Pages/Shared/DeleteCustomer.cshtml
+   at Microsoft.AspNetCore.Mvc.ViewEngines.ViewEngineResult.EnsureSuccessful(IEnumerable`1 originalLocations)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeResultAsync(IActionResult result)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResultFilterAsync[TFilter,TFilterAsync]()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResultExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeResultFilters()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at CoV.Web.Infrastructure.Middleware.PageAccessdenied.Invoke(HttpContext context) in C:\Users\fpt\Downloads\SHoesStoreTuli-Develop\SHoesStoreTuli-Develop\CoV.Web\CoV.Web\Infrastructure\Middleware\PageAccessdenied.cs:line 19
+   at CoV.Web.Infrastructure.Middleware.PageNotFound.Invoke(HttpContext context) in C:\Users\fpt\Downloads\SHoesStoreTuli-Develop\SHoesStoreTuli-Develop\CoV.Web\CoV.Web\Infrastructure\Middleware\PageNotFound.cs:line 25
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2024-05-24 19:03:34.513 +07:00 [Error] The view '"DeleteCustomer"' was not found. Searched locations: ["/Views/OrderDetals/DeleteCustomer.cshtml", "/Views/Shared/DeleteCustomer.cshtml", "/Pages/Shared/DeleteCustomer.cshtml"]
+2024-05-24 19:03:34.514 +07:00 [Error] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The view 'DeleteCustomer' was not found. The following locations were searched:
+/Views/OrderDetals/DeleteCustomer.cshtml
+/Views/Shared/DeleteCustomer.cshtml
+/Pages/Shared/DeleteCustomer.cshtml
+   at Microsoft.AspNetCore.Mvc.ViewEngines.ViewEngineResult.EnsureSuccessful(IEnumerable`1 originalLocations)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeResultAsync(IActionResult result)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResultFilterAsync[TFilter,TFilterAsync]()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResultExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeResultFilters()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at CoV.Web.Infrastructure.Middleware.PageAccessdenied.Invoke(HttpContext context) in C:\Users\fpt\Downloads\SHoesStoreTuli-Develop\SHoesStoreTuli-Develop\CoV.Web\CoV.Web\Infrastructure\Middleware\PageAccessdenied.cs:line 19
+   at CoV.Web.Infrastructure.Middleware.PageNotFound.Invoke(HttpContext context) in C:\Users\fpt\Downloads\SHoesStoreTuli-Develop\SHoesStoreTuli-Develop\CoV.Web\CoV.Web\Infrastructure\Middleware\PageNotFound.cs:line 25
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2024-05-24 19:14:14.411 +07:00 [Error] Connection ID ""18230571296696041479"", Request ID ""40000008-0001-fd00-b63f-84710c7967bb"": An unhandled exception was thrown by the application.
+System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at System.Threading.CancellationTokenSource.ThrowObjectDisposedException()
+   at System.Threading.CancellationTokenSource.Cancel()
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContext.<>c__DisplayClass314_0.<AbortIO>b__0(Object t)
+2024-05-24 19:17:16.515 +07:00 [Error] Login with account :admin@gmail.com
+2024-05-24 19:30:25.647 +07:00 [Error] Connection ID ""18374686506246733851"", Request ID ""4000001c-0006-ff00-b63f-84710c7967bb"": An unhandled exception was thrown by the application.
+System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at System.Threading.CancellationTokenSource.ThrowObjectDisposedException()
+   at System.Threading.CancellationTokenSource.Cancel()
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContext.<>c__DisplayClass314_0.<AbortIO>b__0(Object t)
+2024-05-24 20:10:40.373 +07:00 [Error] Login with account :admin@gmail.com
+2024-05-24 20:11:04.853 +07:00 [Error] Login with account :shipper@gmail.com
+2024-05-24 20:51:30.995 +07:00 [Error] Login with account :admin@gmail.com
+2024-05-24 21:25:59.810 +07:00 [Error] Connection ID ""2192872268432"", Request ID ""4000002f-0001-fa00-b63f-84710c7967bb"": An unhandled exception was thrown by the application.
+System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at System.Threading.CancellationTokenSource.ThrowObjectDisposedException()
+   at System.Threading.CancellationTokenSource.Cancel()
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContext.<>c__DisplayClass314_0.<AbortIO>b__0(Object t)
+2024-05-24 21:30:20.692 +07:00 [Error] Connection ID ""18302628895028936711"", Request ID ""40000008-0002-fe00-b63f-84710c7967bb"": An unhandled exception was thrown by the application.
+System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at System.Threading.CancellationTokenSource.ThrowObjectDisposedException()
+   at System.Threading.CancellationTokenSource.Cancel()
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContext.<>c__DisplayClass314_0.<AbortIO>b__0(Object t)
+2024-05-24 21:30:27.004 +07:00 [Error] Login with account :admin@gmail.com
+2024-05-24 21:38:31.497 +07:00 [Error] Login with account :admin@gmail.com
+2024-05-24 21:40:14.868 +07:00 [Error] Login with account :admin@gmail.com
+2024-05-24 21:42:58.079 +07:00 [Error]  Error 404
+2024-05-24 22:02:08.705 +07:00 [Error] Login with account :admin@gmail.com
+2024-05-24 22:07:00.039 +07:00 [Error] Connection ID ""18302628899323904094"", Request ID ""4000005f-0003-fe00-b63f-84710c7967bb"": An unhandled exception was thrown by the application.
+System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at System.Threading.CancellationTokenSource.ThrowObjectDisposedException()
+   at System.Threading.CancellationTokenSource.Cancel()
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContext.<>c__DisplayClass314_0.<AbortIO>b__0(Object t)
+2024-05-24 22:07:04.628 +07:00 [Error] Login with account :admin@gmail.com
+2024-05-24 22:13:14.555 +07:00 [Error] Login with account :admin@gmail.com
+2024-05-24 22:15:12.249 +07:00 [Error] Login with account :admin@gmail.com
+2024-05-24 22:18:54.841 +07:00 [Error] Connection ID ""18014398514582257764"", Request ID ""40000065-0001-fa00-b63f-84710c7967bb"": An unhandled exception was thrown by the application.
+System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at System.Threading.CancellationTokenSource.ThrowObjectDisposedException()
+   at System.Threading.CancellationTokenSource.Cancel()
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContext.<>c__DisplayClass314_0.<AbortIO>b__0(Object t)
+2024-05-24 22:21:59.551 +07:00 [Error] Login with account :admin@gmail.com
+2024-05-24 22:33:42.122 +07:00 [Error] Login with account :admin@gmail.com
+2024-05-24 22:35:20.781 +07:00 [Error] Connection ID ""18302628912208806020"", Request ID ""40000085-0006-fe00-b63f-84710c7967bb"": An unhandled exception was thrown by the application.
+System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at System.Threading.CancellationTokenSource.ThrowObjectDisposedException()
+   at System.Threading.CancellationTokenSource.Cancel()
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContext.<>c__DisplayClass314_0.<AbortIO>b__0(Object t)
+2024-05-24 22:44:50.712 +07:00 [Error] Login with account :shipper@gmail.com
+2024-05-24 22:50:18.394 +07:00 [Error] Login with account :admin@gmail.com
+2024-05-24 22:59:05.569 +07:00 [Error] Connection ID ""18302628907913838683"", Request ID ""4000005c-0005-fe00-b63f-84710c7967bb"": An unhandled exception was thrown by the application.
+System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at System.Threading.CancellationTokenSource.ThrowObjectDisposedException()
+   at System.Threading.CancellationTokenSource.Cancel()
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContext.<>c__DisplayClass314_0.<AbortIO>b__0(Object t)
+2024-05-24 23:09:32.881 +07:00 [Error] Login with account :shipper@gmail.com
+2024-05-24 23:20:23.938 +07:00 [Error]  Error 404
+2024-05-24 23:20:23.938 +07:00 [Error]  Error 404
+2024-05-24 23:20:51.311 +07:00 [Error]  Error 404
+2024-05-24 23:20:51.311 +07:00 [Error]  Error 404
+2024-05-24 23:29:06.325 +07:00 [Error]  Error 404
+2024-05-24 23:29:06.325 +07:00 [Error]  Error 404
+2024-05-24 23:34:43.938 +07:00 [Error]  Error 401
+2024-05-24 23:47:28.173 +07:00 [Error]  Error 401
